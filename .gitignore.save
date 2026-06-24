@@ -1,0 +1,19 @@
+# Mac system layout files
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+# Eclipse project tracking directories
+.settings/
+.project
+.classpath
+bin/
+*/.settings/
+*/.project
+*/.classpath
+
+# Maven compiled output directories
+target/
+*/target/
+
+
